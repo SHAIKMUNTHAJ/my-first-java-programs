@@ -29,7 +29,8 @@ public class Employee1 {
 		System.out.println("totalpfsal="+totalpfsal);
 		
 
-		System.out.println();
+
+
 		
 
 	}
