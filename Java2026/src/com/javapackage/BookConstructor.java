@@ -1,9 +1,11 @@
 package com.javapackage;
 
-public class Helloworlds {
+public class BookConstructor {
+
+	String bookname;
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 
 	}
 
